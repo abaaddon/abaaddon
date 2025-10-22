@@ -5,10 +5,16 @@
   </a>
 </p>
 
+
+<div align="center">
+  
+[rentry](https://rentry.co/raree)  󠀠󠀠 ㅤㅤ  [ata](https://wendy.atabook.org/)
+
+</div>
+
 <p align="center">
   <img src= "https://files.catbox.moe/bxpvrn.gif">
 </p>
-
 
 
 
