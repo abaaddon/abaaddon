@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[rentry](https://rentry.co/raree)  󠀠󠀠 ㅤㅤ  [atabook](https://wendy.atabook.org/)
+[rentry](https://rentry.co/toame)  󠀠󠀠 ㅤㅤ  [atabook](https://wendy.atabook.org/)
 
 </div>
 
