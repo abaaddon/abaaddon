@@ -1,16 +1,15 @@
 
 
 
+<p align="center">
+  <img src= "https://i.postimg.cc/jSbNwzfd/Untitled341-20251027121938.png">
+</p>
+
 <div align="center">
   
 [rentry](https://rentry.co/angelfallin)  󠀠󠀠 ㅤㅤ  [atabook](https://raincandy.atabook.org/)
 
 </div>
-
-<p align="center">
-  <img src= "https://i.postimg.cc/jSbNwzfd/Untitled341-20251027121938.png">
-</p>
-
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
