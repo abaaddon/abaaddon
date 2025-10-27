@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <img src= "https://i.postimg.cc/mrTxh6VB/Untitled341-20251027121149.png">
+  <img src= "https://i.postimg.cc/jSbNwzfd/Untitled341-20251027121938.png">
 </p>
 
 
